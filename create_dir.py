@@ -110,6 +110,8 @@ def view_passwords(master_password):
 
 def main():
     while True:
+        print("Hello this is a password manager app menu driven program")
+        print("select any on of the below options")
         print("Password Manager")
         print("1. Add password")
         print("2. Retrieve password")
